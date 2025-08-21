@@ -1,11 +1,11 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-front-color: #6a6a6ac5;
+    --card-back-color: #ffffff;
 }
 
 body {
-background: url('bg-desktop.webp');
+background: url('imagem\ flashcard.webp');
 font-family: Bai Jamjuree;
 }
 
@@ -19,7 +19,7 @@ display:flex ;
 
 .cartao {
 margin: 1rem 1rem;
-background-color: aqua;
+background-color: rgb(211, 211, 211);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
@@ -99,7 +99,7 @@ footer p{
 @media (max-width: 560px) {
 
     body {
-        background: url('bg-mobile.webp');
+        background: url('imagem\ 2\ flashcard.webp');
     }
     .cartao {
         flex: 1 0 calc(100% - 1rem);
