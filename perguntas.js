@@ -1,7 +1,7 @@
 criaCartao(
 'matemática',
-'o que é numero primo?',
-'número natural maior que 1 que possui apenas dois divisoresdistintos: 1 e ele mesmo'
+'O que é um número primo?',
+'Número natural maior que 1 que possui apenas dois divisoresdistintos: 1 e ele mesmo'
 )
 
 criaCartao(
@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
 'Portuguễs',
 'O que é um verbo?',
-'é uma palavra que expressa uma ação, estado ou fenômeno da natureza,situando-a no tempo.'
+'É uma palavra que expressa uma ação, estado ou fenômeno da natureza,situando-a no tempo.'
 )
 criaCartao(
 'Lingua inglesa',
